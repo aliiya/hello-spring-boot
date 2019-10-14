@@ -1,0 +1,10 @@
+2019-10-10 16:13:05.517  INFO 13896 --- [main] c.t.h.HelloSpringBootApplication         : Starting HelloSpringBootApplication on DESKTOP-P7KTC32 with PID 13896 (F:\train\hello-spring-boot\target\classes started by aliya in F:\train\hello-spring-boot)
+2019-10-10 16:13:05.521  INFO 13896 --- [main] c.t.h.HelloSpringBootApplication         : No active profile set, falling back to default profiles: default
+2019-10-10 16:13:08.514  INFO 13896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2019-10-10 16:13:08.596  INFO 13896 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-10 16:13:08.597  INFO 13896 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-10 16:13:08.843  INFO 13896 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-10-10 16:13:08.843  INFO 13896 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3035 ms
+2019-10-10 16:13:09.210  INFO 13896 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-10 16:13:09.491  INFO 13896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path '/boot'
+2019-10-10 16:13:09.495  INFO 13896 --- [main] c.t.h.HelloSpringBootApplication         : Started HelloSpringBootApplication in 5.607 seconds (JVM running for 10.815)
